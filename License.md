@@ -1,6 +1,6 @@
 # License
 
-As a work of the [United States government](https://www.usa.gov/), this project is in the public domain within the United States of America.
+This code was developed by United States federal government employees as part of their official duties. As such, it is not subject to copyright protection and is considered “public domain” (see 17 USC § 105). Public domain software can be used by anyone for any purpose, and cannot be released under a copyright license.
 
 Additionally, we waive copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication.
 
